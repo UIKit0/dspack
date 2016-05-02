@@ -1,0 +1,1 @@
+DSPack is a set of Components and class to write Multimedia Applications using MS Direct Show and DirectX technologies.
